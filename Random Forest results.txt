@@ -1,0 +1,334 @@
+> System: xz, Dataset: ambivert.wav.tar.csv
+【Average MAPE】 Baseline(LR): 1.3418 | New tool(RF): 0.0249
+【Average MAE】 Baseline(LR): 13.10 | New tool(RF): 0.59
+【Average RMSE】 Baseline(LR): 16.97 | New tool(RF): 1.46
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: xz, Dataset: artificl.tar.csv
+【Average MAPE】 Baseline(LR): 0.2914 | New tool(RF): 0.3026
+【Average MAE】 Baseline(LR): 0.01 | New tool(RF): 0.01
+【Average RMSE】 Baseline(LR): 0.01 | New tool(RF): 0.01
+【 p-value】: 1.8626e-09
+Conclusion:  Baseline模型更好，随机森林在此数据集上表现不佳。
+
+======================================================
+> System: xz, Dataset: deepfield.tar.csv
+【Average MAPE】 Baseline(LR): 0.6145 | New tool(RF): 0.0262
+【Average MAE】 Baseline(LR): 5.76 | New tool(RF): 0.39
+【Average RMSE】 Baseline(LR): 8.03 | New tool(RF): 0.73
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: xz, Dataset: enwik8.tar.csv
+【Average MAPE】 Baseline(LR): 1.9850 | New tool(RF): 0.0757
+【Average MAE】 Baseline(LR): 71.31 | New tool(RF): 9.77
+【Average RMSE】 Baseline(LR): 93.49 | New tool(RF): 33.55
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: xz, Dataset: fannie_mae_500k.tar.csv
+【Average MAPE】 Baseline(LR): 0.9138 | New tool(RF): 0.0242
+【Average MAE】 Baseline(LR): 30.17 | New tool(RF): 1.00
+【Average RMSE】 Baseline(LR): 36.03 | New tool(RF): 1.79
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: xz, Dataset: large.tar.csv
+【Average MAPE】 Baseline(LR): 0.4308 | New tool(RF): 0.0222
+【Average MAE】 Baseline(LR): 1.86 | New tool(RF): 0.11
+【Average RMSE】 Baseline(LR): 2.30 | New tool(RF): 0.16
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: xz, Dataset: misc.tar.csv
+【Average MAPE】 Baseline(LR): 0.2257 | New tool(RF): 0.0465
+【Average MAE】 Baseline(LR): 0.09 | New tool(RF): 0.02
+【Average RMSE】 Baseline(LR): 0.12 | New tool(RF): 0.05
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: xz, Dataset: silesia.tar.csv
+【Average MAPE】 Baseline(LR): 0.9420 | New tool(RF): 0.0232
+【Average MAE】 Baseline(LR): 61.46 | New tool(RF): 2.60
+【Average RMSE】 Baseline(LR): 77.48 | New tool(RF): 5.46
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: xz, Dataset: uiq-32.bin.csv
+【Average MAPE】 Baseline(LR): 1.1838 | New tool(RF): 0.0614
+【Average MAE】 Baseline(LR): 72.21 | New tool(RF): 10.63
+【Average RMSE】 Baseline(LR): 92.04 | New tool(RF): 30.53
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: xz, Dataset: uiq2-16.bin.csv
+【Average MAPE】 Baseline(LR): 1.0578 | New tool(RF): 0.0678
+【Average MAE】 Baseline(LR): 32.04 | New tool(RF): 5.30
+【Average RMSE】 Baseline(LR): 42.82 | New tool(RF): 16.58
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: xz, Dataset: uiq2-4.bin.csv
+【Average MAPE】 Baseline(LR): 0.6043 | New tool(RF): 0.0248
+【Average MAE】 Baseline(LR): 4.32 | New tool(RF): 0.26
+【Average RMSE】 Baseline(LR): 5.97 | New tool(RF): 0.50
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: xz, Dataset: uiq2-8.bin.csv
+【Average MAPE】 Baseline(LR): 0.8016 | New tool(RF): 0.0643
+【Average MAE】 Baseline(LR): 11.91 | New tool(RF): 2.15
+【Average RMSE】 Baseline(LR): 16.60 | New tool(RF): 6.56
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: xz, Dataset: vmlinux-5.10.tar.csv
+【Average MAPE】 Baseline(LR): 0.2822 | New tool(RF): 0.0203
+【Average MAE】 Baseline(LR): 1.86 | New tool(RF): 0.16
+【Average RMSE】 Baseline(LR): 2.27 | New tool(RF): 0.25
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: h2, Dataset: smallbank-1.csv
+【Average MAPE】 Baseline(LR): 0.0575 | New tool(RF): 0.0380
+【Average MAE】 Baseline(LR): 1126.70 | New tool(RF): 725.16
+【Average RMSE】 Baseline(LR): 1357.42 | New tool(RF): 943.51
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: h2, Dataset: smallbank-10.csv
+【Average MAPE】 Baseline(LR): 0.0463 | New tool(RF): 0.0219
+【Average MAE】 Baseline(LR): 629.82 | New tool(RF): 292.05
+【Average RMSE】 Baseline(LR): 761.01 | New tool(RF): 401.55
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: h2, Dataset: tpcc-2.csv
+【Average MAPE】 Baseline(LR): 0.0418 | New tool(RF): 0.0283
+【Average MAE】 Baseline(LR): 30.55 | New tool(RF): 20.67
+【Average RMSE】 Baseline(LR): 37.73 | New tool(RF): 25.95
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: h2, Dataset: tpcc-8.csv
+【Average MAPE】 Baseline(LR): 0.1997 | New tool(RF): 0.1991
+【Average MAE】 Baseline(LR): 106.60 | New tool(RF): 107.40
+【Average RMSE】 Baseline(LR): 161.19 | New tool(RF): 173.10
+【 p-value】: 4.7711e-01
+Conclusion:  差异不具有统计学显著性 (p >= 0.05)。
+
+======================================================
+> System: h2, Dataset: voter-16.csv
+【Average MAPE】 Baseline(LR): 0.0761 | New tool(RF): 0.0175
+【Average MAE】 Baseline(LR): 2398.28 | New tool(RF): 562.05
+【Average RMSE】 Baseline(LR): 2660.26 | New tool(RF): 757.14
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: h2, Dataset: voter-2.csv
+【Average MAPE】 Baseline(LR): 0.0802 | New tool(RF): 0.0171
+【Average MAE】 Baseline(LR): 2512.77 | New tool(RF): 546.74
+【Average RMSE】 Baseline(LR): 2782.31 | New tool(RF): 760.89
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: h2, Dataset: ycsb-2400.csv
+【Average MAPE】 Baseline(LR): 0.0907 | New tool(RF): 0.0408
+【Average MAE】 Baseline(LR): 1278.78 | New tool(RF): 571.58
+【Average RMSE】 Baseline(LR): 1574.43 | New tool(RF): 723.91
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: h2, Dataset: ycsb-600.csv
+【Average MAPE】 Baseline(LR): 0.0837 | New tool(RF): 0.0353
+【Average MAE】 Baseline(LR): 1684.40 | New tool(RF): 726.09
+【Average RMSE】 Baseline(LR): 2077.44 | New tool(RF): 959.63
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: dconvert, Dataset: jpeg-large.csv
+【Average MAPE】 Baseline(LR): 0.1344 | New tool(RF): 0.0277
+【Average MAE】 Baseline(LR): 0.42 | New tool(RF): 0.09
+【Average RMSE】 Baseline(LR): 0.57 | New tool(RF): 0.13
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: dconvert, Dataset: jpeg-medium.csv
+【Average MAPE】 Baseline(LR): 0.1019 | New tool(RF): 0.0226
+【Average MAE】 Baseline(LR): 0.18 | New tool(RF): 0.04
+【Average RMSE】 Baseline(LR): 0.24 | New tool(RF): 0.05
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: dconvert, Dataset: jpeg-small.csv
+【Average MAPE】 Baseline(LR): 0.0350 | New tool(RF): 0.0340
+【Average MAE】 Baseline(LR): 0.02 | New tool(RF): 0.01
+【Average RMSE】 Baseline(LR): 0.02 | New tool(RF): 0.02
+【 p-value】: 3.7253e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: dconvert, Dataset: png-large.csv
+【Average MAPE】 Baseline(LR): 0.0922 | New tool(RF): 0.0253
+【Average MAE】 Baseline(LR): 0.22 | New tool(RF): 0.06
+【Average RMSE】 Baseline(LR): 0.28 | New tool(RF): 0.08
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: dconvert, Dataset: png-medium.csv
+【Average MAPE】 Baseline(LR): 0.0355 | New tool(RF): 0.0275
+【Average MAE】 Baseline(LR): 0.02 | New tool(RF): 0.02
+【Average RMSE】 Baseline(LR): 0.03 | New tool(RF): 0.02
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: dconvert, Dataset: png-small.csv
+【Average MAPE】 Baseline(LR): 0.0331 | New tool(RF): 0.0351
+【Average MAE】 Baseline(LR): 0.01 | New tool(RF): 0.02
+【Average RMSE】 Baseline(LR): 0.02 | New tool(RF): 0.02
+【 p-value】: 1.8626e-09
+Conclusion:  Baseline模型更好，随机森林在此数据集上表现不佳。
+
+======================================================
+> System: dconvert, Dataset: psd-large.csv
+【Average MAPE】 Baseline(LR): 0.0143 | New tool(RF): 0.0156
+【Average MAE】 Baseline(LR): 0.53 | New tool(RF): 0.59
+【Average RMSE】 Baseline(LR): 0.87 | New tool(RF): 1.00
+【 p-value】: 1.8626e-09
+Conclusion:  Baseline模型更好，随机森林在此数据集上表现不佳。
+
+======================================================
+> System: dconvert, Dataset: psd-medium.csv
+【Average MAPE】 Baseline(LR): 0.0518 | New tool(RF): 0.0254
+【Average MAE】 Baseline(LR): 0.07 | New tool(RF): 0.03
+【Average RMSE】 Baseline(LR): 0.09 | New tool(RF): 0.04
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: dconvert, Dataset: psd-small.csv
+【Average MAPE】 Baseline(LR): 0.0358 | New tool(RF): 0.0380
+【Average MAE】 Baseline(LR): 0.02 | New tool(RF): 0.02
+【Average RMSE】 Baseline(LR): 0.02 | New tool(RF): 0.03
+【 p-value】: 1.8626e-09
+Conclusion:  Baseline模型更好，随机森林在此数据集上表现不佳。
+
+======================================================
+> System: dconvert, Dataset: svg-large.csv
+【Average MAPE】 Baseline(LR): 0.0204 | New tool(RF): 0.0234
+【Average MAE】 Baseline(LR): 0.03 | New tool(RF): 0.04
+【Average RMSE】 Baseline(LR): 0.04 | New tool(RF): 0.05
+【 p-value】: 1.8626e-09
+Conclusion:  Baseline模型更好，随机森林在此数据集上表现不佳。
+
+======================================================
+> System: dconvert, Dataset: svg-medium.csv
+【Average MAPE】 Baseline(LR): 0.0172 | New tool(RF): 0.0193
+【Average MAE】 Baseline(LR): 0.03 | New tool(RF): 0.03
+【Average RMSE】 Baseline(LR): 0.03 | New tool(RF): 0.04
+【 p-value】: 1.8626e-09
+Conclusion:  Baseline模型更好，随机森林在此数据集上表现不佳。
+
+======================================================
+> System: dconvert, Dataset: svg-small.csv
+【Average MAPE】 Baseline(LR): 0.0358 | New tool(RF): 0.0256
+【Average MAE】 Baseline(LR): 0.02 | New tool(RF): 0.01
+【Average RMSE】 Baseline(LR): 0.03 | New tool(RF): 0.02
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: x264, Dataset: blue_sky_1080p25_short.y4m.csv
+【Average MAPE】 Baseline(LR): 0.7751 | New tool(RF): 0.1236
+【Average MAE】 Baseline(LR): 3.15 | New tool(RF): 1.20
+【Average RMSE】 Baseline(LR): 4.08 | New tool(RF): 2.72
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: x264, Dataset: Johnny_1280x720_60_short.y4m.csv
+【Average MAPE】 Baseline(LR): 0.8778 | New tool(RF): 0.1284
+【Average MAE】 Baseline(LR): 2.57 | New tool(RF): 0.96
+【Average RMSE】 Baseline(LR): 3.37 | New tool(RF): 2.26
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: x264, Dataset: Netflix_Crosswalk_4096x2160_60fps_10bit_420_short.y4m.csv
+【Average MAPE】 Baseline(LR): 0.7744 | New tool(RF): 0.1213
+【Average MAE】 Baseline(LR): 8.73 | New tool(RF): 3.32
+【Average RMSE】 Baseline(LR): 11.31 | New tool(RF): 7.47
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: x264, Dataset: pedestrian_area_1080p25_short.y4m.csv
+【Average MAPE】 Baseline(LR): 0.7087 | New tool(RF): 0.1234
+【Average MAE】 Baseline(LR): 3.57 | New tool(RF): 1.41
+【Average RMSE】 Baseline(LR): 4.63 | New tool(RF): 3.16
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: x264, Dataset: riverbed_1080p25_short.y4m.csv
+【Average MAPE】 Baseline(LR): 0.6538 | New tool(RF): 0.1263
+【Average MAE】 Baseline(LR): 6.68 | New tool(RF): 2.72
+【Average RMSE】 Baseline(LR): 8.85 | New tool(RF): 6.09
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: x264, Dataset: sd_bridge_close_cif_short.y4m.csv
+【Average MAPE】 Baseline(LR): 0.5148 | New tool(RF): 0.0911
+【Average MAE】 Baseline(LR): 0.14 | New tool(RF): 0.05
+【Average RMSE】 Baseline(LR): 0.18 | New tool(RF): 0.11
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: x264, Dataset: sd_city_4cif_short.y4m.csv
+【Average MAPE】 Baseline(LR): 0.8230 | New tool(RF): 0.1253
+【Average MAE】 Baseline(LR): 1.48 | New tool(RF): 0.55
+【Average RMSE】 Baseline(LR): 1.91 | New tool(RF): 1.27
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: x264, Dataset: sd_crew_cif_short.y4m.csv
+【Average MAPE】 Baseline(LR): 0.6187 | New tool(RF): 0.1078
+【Average MAE】 Baseline(LR): 0.25 | New tool(RF): 0.09
+【Average RMSE】 Baseline(LR): 0.32 | New tool(RF): 0.21
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！
+
+======================================================
+> System: x264, Dataset: sintel_trailer_2k_720p24_short.y4m.csv
+【Average MAPE】 Baseline(LR): 0.5114 | New tool(RF): 0.0973
+【Average MAE】 Baseline(LR): 0.37 | New tool(RF): 0.15
+【Average RMSE】 Baseline(LR): 0.47 | New tool(RF): 0.33
+【 p-value】: 1.8626e-09
+Conclusion:  随机森林在统计学上显著优于Baseline模型！

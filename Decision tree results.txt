@@ -1,0 +1,335 @@
+======================================================
+> System: xz, Dataset: ambivert.wav.tar.csv
+【Average MAPE】 Baseline(LR): 1.3418 | New tool(DT): 0.0285
+【Average MAE】 Baseline(LR): 13.10 | New tool(DT): 0.69
+【Average RMSE】 Baseline(LR): 16.97 | New tool(DT): 1.76
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: xz, Dataset: artificl.tar.csv
+【Average MAPE】 Baseline(LR): 0.2914 | New tool(DT): 0.3414
+【Average MAE】 Baseline(LR): 0.01 | New tool(DT): 0.01
+【Average RMSE】 Baseline(LR): 0.01 | New tool(DT): 0.01
+【 p-value】: 1.8626e-09
+Conclusion:  Baseline模型更好，决策树在此数据集上表现不佳。
+
+======================================================
+> System: xz, Dataset: deepfield.tar.csv
+【Average MAPE】 Baseline(LR): 0.6145 | New tool(DT): 0.0296
+【Average MAE】 Baseline(LR): 5.76 | New tool(DT): 0.45
+【Average RMSE】 Baseline(LR): 8.03 | New tool(DT): 0.85
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: xz, Dataset: enwik8.tar.csv
+【Average MAPE】 Baseline(LR): 1.9850 | New tool(DT): 0.0859
+【Average MAE】 Baseline(LR): 71.31 | New tool(DT): 11.37
+【Average RMSE】 Baseline(LR): 93.49 | New tool(DT): 40.94
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: xz, Dataset: fannie_mae_500k.tar.csv
+【Average MAPE】 Baseline(LR): 0.9138 | New tool(DT): 0.0255
+【Average MAE】 Baseline(LR): 30.17 | New tool(DT): 1.11
+【Average RMSE】 Baseline(LR): 36.03 | New tool(DT): 2.19
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: xz, Dataset: large.tar.csv
+【Average MAPE】 Baseline(LR): 0.4308 | New tool(DT): 0.0244
+【Average MAE】 Baseline(LR): 1.86 | New tool(DT): 0.12
+【Average RMSE】 Baseline(LR): 2.30 | New tool(DT): 0.19
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: xz, Dataset: misc.tar.csv
+【Average MAPE】 Baseline(LR): 0.2257 | New tool(DT): 0.0561
+【Average MAE】 Baseline(LR): 0.09 | New tool(DT): 0.02
+【Average RMSE】 Baseline(LR): 0.12 | New tool(DT): 0.06
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: xz, Dataset: silesia.tar.csv
+【Average MAPE】 Baseline(LR): 0.9420 | New tool(DT): 0.0248
+【Average MAE】 Baseline(LR): 61.46 | New tool(DT): 3.02
+【Average RMSE】 Baseline(LR): 77.48 | New tool(DT): 6.64
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: xz, Dataset: uiq-32.bin.csv
+【Average MAPE】 Baseline(LR): 1.1838 | New tool(DT): 0.0697
+【Average MAE】 Baseline(LR): 72.21 | New tool(DT): 12.10
+【Average RMSE】 Baseline(LR): 92.04 | New tool(DT): 36.66
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: xz, Dataset: uiq2-16.bin.csv
+【Average MAPE】 Baseline(LR): 1.0578 | New tool(DT): 0.0799
+【Average MAE】 Baseline(LR): 32.04 | New tool(DT): 6.31
+【Average RMSE】 Baseline(LR): 42.82 | New tool(DT): 20.50
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: xz, Dataset: uiq2-4.bin.csv
+【Average MAPE】 Baseline(LR): 0.6043 | New tool(DT): 0.0278
+【Average MAE】 Baseline(LR): 4.32 | New tool(DT): 0.30
+【Average RMSE】 Baseline(LR): 5.97 | New tool(DT): 0.59
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: xz, Dataset: uiq2-8.bin.csv
+【Average MAPE】 Baseline(LR): 0.8016 | New tool(DT): 0.0752
+【Average MAE】 Baseline(LR): 11.91 | New tool(DT): 2.52
+【Average RMSE】 Baseline(LR): 16.60 | New tool(DT): 7.78
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: xz, Dataset: vmlinux-5.10.tar.csv
+【Average MAPE】 Baseline(LR): 0.2822 | New tool(DT): 0.0231
+【Average MAE】 Baseline(LR): 1.86 | New tool(DT): 0.18
+【Average RMSE】 Baseline(LR): 2.27 | New tool(DT): 0.31
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: h2, Dataset: smallbank-1.csv
+【Average MAPE】 Baseline(LR): 0.0575 | New tool(DT): 0.0505
+【Average MAE】 Baseline(LR): 1126.70 | New tool(DT): 964.34
+【Average RMSE】 Baseline(LR): 1357.42 | New tool(DT): 1263.52
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: h2, Dataset: smallbank-10.csv
+【Average MAPE】 Baseline(LR): 0.0463 | New tool(DT): 0.0296
+【Average MAE】 Baseline(LR): 629.82 | New tool(DT): 396.16
+【Average RMSE】 Baseline(LR): 761.01 | New tool(DT): 537.62
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: h2, Dataset: tpcc-2.csv
+【Average MAPE】 Baseline(LR): 0.0418 | New tool(DT): 0.0375
+【Average MAE】 Baseline(LR): 30.55 | New tool(DT): 27.32
+【Average RMSE】 Baseline(LR): 37.73 | New tool(DT): 35.09
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: h2, Dataset: tpcc-8.csv
+【Average MAPE】 Baseline(LR): 0.1997 | New tool(DT): 0.2214
+【Average MAE】 Baseline(LR): 106.60 | New tool(DT): 119.21
+【Average RMSE】 Baseline(LR): 161.19 | New tool(DT): 230.88
+【 p-value】: 9.3132e-09
+Conclusion:  Baseline模型更好，决策树在此数据集上表现不佳。
+
+======================================================
+> System: h2, Dataset: voter-16.csv
+【Average MAPE】 Baseline(LR): 0.0761 | New tool(DT): 0.0231
+【Average MAE】 Baseline(LR): 2398.28 | New tool(DT): 745.21
+【Average RMSE】 Baseline(LR): 2660.26 | New tool(DT): 1020.87
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: h2, Dataset: voter-2.csv
+【Average MAPE】 Baseline(LR): 0.0802 | New tool(DT): 0.0227
+【Average MAE】 Baseline(LR): 2512.77 | New tool(DT): 724.63
+【Average RMSE】 Baseline(LR): 2782.31 | New tool(DT): 1028.82
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: h2, Dataset: ycsb-2400.csv
+【Average MAPE】 Baseline(LR): 0.0907 | New tool(DT): 0.0538
+【Average MAE】 Baseline(LR): 1278.78 | New tool(DT): 752.43
+【Average RMSE】 Baseline(LR): 1574.43 | New tool(DT): 969.12
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: h2, Dataset: ycsb-600.csv
+【Average MAPE】 Baseline(LR): 0.0837 | New tool(DT): 0.0468
+【Average MAE】 Baseline(LR): 1684.40 | New tool(DT): 961.24
+【Average RMSE】 Baseline(LR): 2077.44 | New tool(DT): 1285.36
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: dconvert, Dataset: jpeg-large.csv
+【Average MAPE】 Baseline(LR): 0.1344 | New tool(DT): 0.0296
+【Average MAE】 Baseline(LR): 0.42 | New tool(DT): 0.10
+【Average RMSE】 Baseline(LR): 0.57 | New tool(DT): 0.14
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: dconvert, Dataset: jpeg-medium.csv
+【Average MAPE】 Baseline(LR): 0.1019 | New tool(DT): 0.0241
+【Average MAE】 Baseline(LR): 0.18 | New tool(DT): 0.04
+【Average RMSE】 Baseline(LR): 0.24 | New tool(DT): 0.06
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: dconvert, Dataset: jpeg-small.csv
+【Average MAPE】 Baseline(LR): 0.0350 | New tool(DT): 0.0363
+【Average MAE】 Baseline(LR): 0.02 | New tool(DT): 0.02
+【Average RMSE】 Baseline(LR): 0.02 | New tool(DT): 0.02
+【 p-value】: 1.8626e-09
+Conclusion:  Baseline模型更好，决策树在此数据集上表现不佳。
+
+======================================================
+> System: dconvert, Dataset: png-large.csv
+【Average MAPE】 Baseline(LR): 0.0922 | New tool(DT): 0.0269
+【Average MAE】 Baseline(LR): 0.22 | New tool(DT): 0.07
+【Average RMSE】 Baseline(LR): 0.28 | New tool(DT): 0.09
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: dconvert, Dataset: png-medium.csv
+【Average MAPE】 Baseline(LR): 0.0355 | New tool(DT): 0.0293
+【Average MAE】 Baseline(LR): 0.02 | New tool(DT): 0.02
+【Average RMSE】 Baseline(LR): 0.03 | New tool(DT): 0.02
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: dconvert, Dataset: png-small.csv
+【Average MAPE】 Baseline(LR): 0.0331 | New tool(DT): 0.0375
+【Average MAE】 Baseline(LR): 0.01 | New tool(DT): 0.02
+【Average RMSE】 Baseline(LR): 0.02 | New tool(DT): 0.02
+【 p-value】: 1.8626e-09
+Conclusion:  Baseline模型更好，决策树在此数据集上表现不佳。
+
+======================================================
+> System: dconvert, Dataset: psd-large.csv
+【Average MAPE】 Baseline(LR): 0.0143 | New tool(DT): 0.0162
+【Average MAE】 Baseline(LR): 0.53 | New tool(DT): 0.61
+【Average RMSE】 Baseline(LR): 0.87 | New tool(DT): 1.07
+【 p-value】: 1.8626e-09
+Conclusion:  Baseline模型更好，决策树在此数据集上表现不佳。
+
+======================================================
+> System: dconvert, Dataset: psd-medium.csv
+【Average MAPE】 Baseline(LR): 0.0518 | New tool(DT): 0.0272
+【Average MAE】 Baseline(LR): 0.07 | New tool(DT): 0.04
+【Average RMSE】 Baseline(LR): 0.09 | New tool(DT): 0.05
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: dconvert, Dataset: psd-small.csv
+【Average MAPE】 Baseline(LR): 0.0358 | New tool(DT): 0.0407
+【Average MAE】 Baseline(LR): 0.02 | New tool(DT): 0.02
+【Average RMSE】 Baseline(LR): 0.02 | New tool(DT): 0.03
+【 p-value】: 1.8626e-09
+Conclusion:  Baseline模型更好，决策树在此数据集上表现不佳。
+
+======================================================
+> System: dconvert, Dataset: svg-large.csv
+【Average MAPE】 Baseline(LR): 0.0204 | New tool(DT): 0.0252
+【Average MAE】 Baseline(LR): 0.03 | New tool(DT): 0.04
+【Average RMSE】 Baseline(LR): 0.04 | New tool(DT): 0.05
+【 p-value】: 1.8626e-09
+Conclusion:  Baseline模型更好，决策树在此数据集上表现不佳。
+
+======================================================
+> System: dconvert, Dataset: svg-medium.csv
+【Average MAPE】 Baseline(LR): 0.0172 | New tool(DT): 0.0207
+【Average MAE】 Baseline(LR): 0.03 | New tool(DT): 0.03
+【Average RMSE】 Baseline(LR): 0.03 | New tool(DT): 0.04
+【 p-value】: 1.8626e-09
+Conclusion:  Baseline模型更好，决策树在此数据集上表现不佳。
+
+======================================================
+> System: dconvert, Dataset: svg-small.csv
+【Average MAPE】 Baseline(LR): 0.0358 | New tool(DT): 0.0273
+【Average MAE】 Baseline(LR): 0.02 | New tool(DT): 0.02
+【Average RMSE】 Baseline(LR): 0.03 | New tool(DT): 0.02
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: x264, Dataset: blue_sky_1080p25_short.y4m.csv
+【Average MAPE】 Baseline(LR): 0.7751 | New tool(DT): 0.1297
+【Average MAE】 Baseline(LR): 3.15 | New tool(DT): 1.23
+【Average RMSE】 Baseline(LR): 4.08 | New tool(DT): 3.45
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: x264, Dataset: Johnny_1280x720_60_short.y4m.csv
+【Average MAPE】 Baseline(LR): 0.8778 | New tool(DT): 0.1322
+【Average MAE】 Baseline(LR): 2.57 | New tool(DT): 0.96
+【Average RMSE】 Baseline(LR): 3.37 | New tool(DT): 2.83
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: x264, Dataset: Netflix_Crosswalk_4096x2160_60fps_10bit_420_short.y4m.csv
+【Average MAPE】 Baseline(LR): 0.7744 | New tool(DT): 0.1284
+【Average MAE】 Baseline(LR): 8.73 | New tool(DT): 3.44
+【Average RMSE】 Baseline(LR): 11.31 | New tool(DT): 9.52
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: x264, Dataset: pedestrian_area_1080p25_short.y4m.csv
+【Average MAPE】 Baseline(LR): 0.7087 | New tool(DT): 0.1293
+【Average MAE】 Baseline(LR): 3.57 | New tool(DT): 1.44
+【Average RMSE】 Baseline(LR): 4.63 | New tool(DT): 4.00
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: x264, Dataset: riverbed_1080p25_short.y4m.csv
+【Average MAPE】 Baseline(LR): 0.6538 | New tool(DT): 0.1319
+【Average MAE】 Baseline(LR): 6.68 | New tool(DT): 2.77
+【Average RMSE】 Baseline(LR): 8.85 | New tool(DT): 7.77
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: x264, Dataset: sd_bridge_close_cif_short.y4m.csv
+【Average MAPE】 Baseline(LR): 0.5148 | New tool(DT): 0.0988
+【Average MAE】 Baseline(LR): 0.14 | New tool(DT): 0.06
+【Average RMSE】 Baseline(LR): 0.18 | New tool(DT): 0.15
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: x264, Dataset: sd_city_4cif_short.y4m.csv
+【Average MAPE】 Baseline(LR): 0.8230 | New tool(DT): 0.1315
+【Average MAE】 Baseline(LR): 1.48 | New tool(DT): 0.57
+【Average RMSE】 Baseline(LR): 1.91 | New tool(DT): 1.63
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: x264, Dataset: sd_crew_cif_short.y4m.csv
+【Average MAPE】 Baseline(LR): 0.6187 | New tool(DT): 0.1150
+【Average MAE】 Baseline(LR): 0.25 | New tool(DT): 0.10
+【Average RMSE】 Baseline(LR): 0.32 | New tool(DT): 0.27
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
+
+======================================================
+> System: x264, Dataset: sintel_trailer_2k_720p24_short.y4m.csv
+【Average MAPE】 Baseline(LR): 0.5114 | New tool(DT): 0.1054
+【Average MAE】 Baseline(LR): 0.37 | New tool(DT): 0.16
+【Average RMSE】 Baseline(LR): 0.47 | New tool(DT): 0.42
+【 p-value】: 1.8626e-09
+Conclusion:  决策树在统计学上显著优于Baseline模型！
