@@ -4,7 +4,7 @@
 【Average MAE】 Baseline(LR): 13.10 | New tool(DT): 0.69
 【Average RMSE】 Baseline(LR): 16.97 | New tool(DT): 1.76
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: xz, Dataset: artificl.tar.csv
@@ -12,7 +12,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 0.01 | New tool(DT): 0.01
 【Average RMSE】 Baseline(LR): 0.01 | New tool(DT): 0.01
 【 p-value】: 1.8626e-09
-Conclusion:  Baseline模型更好，决策树在此数据集上表现不佳。
+Conclusion: Baseline model is better; Decision Tree performed poorly on this dataset.
 
 ======================================================
 > System: xz, Dataset: deepfield.tar.csv
@@ -20,7 +20,7 @@ Conclusion:  Baseline模型更好，决策树在此数据集上表现不佳。
 【Average MAE】 Baseline(LR): 5.76 | New tool(DT): 0.45
 【Average RMSE】 Baseline(LR): 8.03 | New tool(DT): 0.85
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: xz, Dataset: enwik8.tar.csv
@@ -28,7 +28,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 71.31 | New tool(DT): 11.37
 【Average RMSE】 Baseline(LR): 93.49 | New tool(DT): 40.94
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: xz, Dataset: fannie_mae_500k.tar.csv
@@ -36,7 +36,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 30.17 | New tool(DT): 1.11
 【Average RMSE】 Baseline(LR): 36.03 | New tool(DT): 2.19
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: xz, Dataset: large.tar.csv
@@ -44,7 +44,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 1.86 | New tool(DT): 0.12
 【Average RMSE】 Baseline(LR): 2.30 | New tool(DT): 0.19
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: xz, Dataset: misc.tar.csv
@@ -52,7 +52,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 0.09 | New tool(DT): 0.02
 【Average RMSE】 Baseline(LR): 0.12 | New tool(DT): 0.06
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: xz, Dataset: silesia.tar.csv
@@ -60,7 +60,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 61.46 | New tool(DT): 3.02
 【Average RMSE】 Baseline(LR): 77.48 | New tool(DT): 6.64
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: xz, Dataset: uiq-32.bin.csv
@@ -68,7 +68,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 72.21 | New tool(DT): 12.10
 【Average RMSE】 Baseline(LR): 92.04 | New tool(DT): 36.66
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: xz, Dataset: uiq2-16.bin.csv
@@ -76,7 +76,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 32.04 | New tool(DT): 6.31
 【Average RMSE】 Baseline(LR): 42.82 | New tool(DT): 20.50
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: xz, Dataset: uiq2-4.bin.csv
@@ -84,7 +84,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 4.32 | New tool(DT): 0.30
 【Average RMSE】 Baseline(LR): 5.97 | New tool(DT): 0.59
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: xz, Dataset: uiq2-8.bin.csv
@@ -92,7 +92,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 11.91 | New tool(DT): 2.52
 【Average RMSE】 Baseline(LR): 16.60 | New tool(DT): 7.78
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: xz, Dataset: vmlinux-5.10.tar.csv
@@ -100,7 +100,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 1.86 | New tool(DT): 0.18
 【Average RMSE】 Baseline(LR): 2.27 | New tool(DT): 0.31
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: h2, Dataset: smallbank-1.csv
@@ -108,7 +108,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 1126.70 | New tool(DT): 964.34
 【Average RMSE】 Baseline(LR): 1357.42 | New tool(DT): 1263.52
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: h2, Dataset: smallbank-10.csv
@@ -116,7 +116,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 629.82 | New tool(DT): 396.16
 【Average RMSE】 Baseline(LR): 761.01 | New tool(DT): 537.62
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: h2, Dataset: tpcc-2.csv
@@ -124,7 +124,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 30.55 | New tool(DT): 27.32
 【Average RMSE】 Baseline(LR): 37.73 | New tool(DT): 35.09
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: h2, Dataset: tpcc-8.csv
@@ -132,7 +132,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 106.60 | New tool(DT): 119.21
 【Average RMSE】 Baseline(LR): 161.19 | New tool(DT): 230.88
 【 p-value】: 9.3132e-09
-Conclusion:  Baseline模型更好，决策树在此数据集上表现不佳。
+Conclusion: Baseline model is better; Decision Tree performed poorly on this dataset.
 
 ======================================================
 > System: h2, Dataset: voter-16.csv
@@ -140,7 +140,7 @@ Conclusion:  Baseline模型更好，决策树在此数据集上表现不佳。
 【Average MAE】 Baseline(LR): 2398.28 | New tool(DT): 745.21
 【Average RMSE】 Baseline(LR): 2660.26 | New tool(DT): 1020.87
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: h2, Dataset: voter-2.csv
@@ -148,7 +148,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 2512.77 | New tool(DT): 724.63
 【Average RMSE】 Baseline(LR): 2782.31 | New tool(DT): 1028.82
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: h2, Dataset: ycsb-2400.csv
@@ -156,7 +156,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 1278.78 | New tool(DT): 752.43
 【Average RMSE】 Baseline(LR): 1574.43 | New tool(DT): 969.12
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: h2, Dataset: ycsb-600.csv
@@ -164,7 +164,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 1684.40 | New tool(DT): 961.24
 【Average RMSE】 Baseline(LR): 2077.44 | New tool(DT): 1285.36
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: dconvert, Dataset: jpeg-large.csv
@@ -172,7 +172,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 0.42 | New tool(DT): 0.10
 【Average RMSE】 Baseline(LR): 0.57 | New tool(DT): 0.14
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: dconvert, Dataset: jpeg-medium.csv
@@ -180,7 +180,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 0.18 | New tool(DT): 0.04
 【Average RMSE】 Baseline(LR): 0.24 | New tool(DT): 0.06
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: dconvert, Dataset: jpeg-small.csv
@@ -188,7 +188,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 0.02 | New tool(DT): 0.02
 【Average RMSE】 Baseline(LR): 0.02 | New tool(DT): 0.02
 【 p-value】: 1.8626e-09
-Conclusion:  Baseline模型更好，决策树在此数据集上表现不佳。
+Conclusion: Baseline model is better; Decision Tree performed poorly on this dataset.
 
 ======================================================
 > System: dconvert, Dataset: png-large.csv
@@ -196,7 +196,7 @@ Conclusion:  Baseline模型更好，决策树在此数据集上表现不佳。
 【Average MAE】 Baseline(LR): 0.22 | New tool(DT): 0.07
 【Average RMSE】 Baseline(LR): 0.28 | New tool(DT): 0.09
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: dconvert, Dataset: png-medium.csv
@@ -204,7 +204,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 0.02 | New tool(DT): 0.02
 【Average RMSE】 Baseline(LR): 0.03 | New tool(DT): 0.02
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: dconvert, Dataset: png-small.csv
@@ -212,7 +212,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 0.01 | New tool(DT): 0.02
 【Average RMSE】 Baseline(LR): 0.02 | New tool(DT): 0.02
 【 p-value】: 1.8626e-09
-Conclusion:  Baseline模型更好，决策树在此数据集上表现不佳。
+Conclusion: Baseline model is better; Decision Tree performed poorly on this dataset.
 
 ======================================================
 > System: dconvert, Dataset: psd-large.csv
@@ -220,7 +220,7 @@ Conclusion:  Baseline模型更好，决策树在此数据集上表现不佳。
 【Average MAE】 Baseline(LR): 0.53 | New tool(DT): 0.61
 【Average RMSE】 Baseline(LR): 0.87 | New tool(DT): 1.07
 【 p-value】: 1.8626e-09
-Conclusion:  Baseline模型更好，决策树在此数据集上表现不佳。
+Conclusion: Baseline model is better; Decision Tree performed poorly on this dataset.
 
 ======================================================
 > System: dconvert, Dataset: psd-medium.csv
@@ -228,7 +228,7 @@ Conclusion:  Baseline模型更好，决策树在此数据集上表现不佳。
 【Average MAE】 Baseline(LR): 0.07 | New tool(DT): 0.04
 【Average RMSE】 Baseline(LR): 0.09 | New tool(DT): 0.05
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: dconvert, Dataset: psd-small.csv
@@ -236,7 +236,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 0.02 | New tool(DT): 0.02
 【Average RMSE】 Baseline(LR): 0.02 | New tool(DT): 0.03
 【 p-value】: 1.8626e-09
-Conclusion:  Baseline模型更好，决策树在此数据集上表现不佳。
+Conclusion: Baseline model is better; Decision Tree performed poorly on this dataset.
 
 ======================================================
 > System: dconvert, Dataset: svg-large.csv
@@ -244,7 +244,7 @@ Conclusion:  Baseline模型更好，决策树在此数据集上表现不佳。
 【Average MAE】 Baseline(LR): 0.03 | New tool(DT): 0.04
 【Average RMSE】 Baseline(LR): 0.04 | New tool(DT): 0.05
 【 p-value】: 1.8626e-09
-Conclusion:  Baseline模型更好，决策树在此数据集上表现不佳。
+Conclusion: Baseline model is better; Decision Tree performed poorly on this dataset.
 
 ======================================================
 > System: dconvert, Dataset: svg-medium.csv
@@ -252,7 +252,7 @@ Conclusion:  Baseline模型更好，决策树在此数据集上表现不佳。
 【Average MAE】 Baseline(LR): 0.03 | New tool(DT): 0.03
 【Average RMSE】 Baseline(LR): 0.03 | New tool(DT): 0.04
 【 p-value】: 1.8626e-09
-Conclusion:  Baseline模型更好，决策树在此数据集上表现不佳。
+Conclusion: Baseline model is better; Decision Tree performed poorly on this dataset.
 
 ======================================================
 > System: dconvert, Dataset: svg-small.csv
@@ -260,7 +260,7 @@ Conclusion:  Baseline模型更好，决策树在此数据集上表现不佳。
 【Average MAE】 Baseline(LR): 0.02 | New tool(DT): 0.02
 【Average RMSE】 Baseline(LR): 0.03 | New tool(DT): 0.02
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: x264, Dataset: blue_sky_1080p25_short.y4m.csv
@@ -268,7 +268,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 3.15 | New tool(DT): 1.23
 【Average RMSE】 Baseline(LR): 4.08 | New tool(DT): 3.45
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: x264, Dataset: Johnny_1280x720_60_short.y4m.csv
@@ -276,7 +276,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 2.57 | New tool(DT): 0.96
 【Average RMSE】 Baseline(LR): 3.37 | New tool(DT): 2.83
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: x264, Dataset: Netflix_Crosswalk_4096x2160_60fps_10bit_420_short.y4m.csv
@@ -284,7 +284,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 8.73 | New tool(DT): 3.44
 【Average RMSE】 Baseline(LR): 11.31 | New tool(DT): 9.52
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: x264, Dataset: pedestrian_area_1080p25_short.y4m.csv
@@ -292,7 +292,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 3.57 | New tool(DT): 1.44
 【Average RMSE】 Baseline(LR): 4.63 | New tool(DT): 4.00
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: x264, Dataset: riverbed_1080p25_short.y4m.csv
@@ -300,7 +300,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 6.68 | New tool(DT): 2.77
 【Average RMSE】 Baseline(LR): 8.85 | New tool(DT): 7.77
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: x264, Dataset: sd_bridge_close_cif_short.y4m.csv
@@ -308,7 +308,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 0.14 | New tool(DT): 0.06
 【Average RMSE】 Baseline(LR): 0.18 | New tool(DT): 0.15
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: x264, Dataset: sd_city_4cif_short.y4m.csv
@@ -316,7 +316,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 1.48 | New tool(DT): 0.57
 【Average RMSE】 Baseline(LR): 1.91 | New tool(DT): 1.63
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: x264, Dataset: sd_crew_cif_short.y4m.csv
@@ -324,7 +324,7 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 0.25 | New tool(DT): 0.10
 【Average RMSE】 Baseline(LR): 0.32 | New tool(DT): 0.27
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
 
 ======================================================
 > System: x264, Dataset: sintel_trailer_2k_720p24_short.y4m.csv
@@ -332,4 +332,4 @@ Conclusion:  决策树在统计学上显著优于Baseline模型！
 【Average MAE】 Baseline(LR): 0.37 | New tool(DT): 0.16
 【Average RMSE】 Baseline(LR): 0.47 | New tool(DT): 0.42
 【 p-value】: 1.8626e-09
-Conclusion:  决策树在统计学上显著优于Baseline模型！
+Conclusion: Decision Tree is statistically significantly better than the Baseline model!
